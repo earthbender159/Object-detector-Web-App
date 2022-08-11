@@ -1,5 +1,5 @@
 function bedroom_go(){
-    window.location = "index.html"; 
+    window.location = "bedroom.html"; 
 }
 function fruit_go(){
     window.location = "fruit.html"; 
